@@ -1,1 +1,2 @@
-# calculator_java
+# Calculator using programming language Java
+Author <i>-Rifat Sheikh
